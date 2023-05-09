@@ -589,8 +589,11 @@ ul.row {
     color: var(--nav-item-link-hover);
 }
 
+.social-link {
+    display: block;
+}
 
-.social-link>svg {
+.social-link > svg {
     fill: var(--text-color);
 }
 
